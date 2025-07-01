@@ -1,0 +1,23 @@
+BetterSDML – Lisez-moi 🇫🇷
+=========================
+
+Un petit kit pour lancer Stable Diffusion WebUI – DirectML plus facilement sur une carte graphique AMD.
+
+Ce projet propose :
+- Des scripts .bat pour lancer et redémarrer l'IA sans galère
+- Une gestion de la VRAM (fermeture propre et relance)
+- Brave Portable intégré automatiquement
+- Une icône personnalisée
+
+⚙️ Fonctionnement :
+1. Lancez `Lancer-StableDiffusion.exe`
+2. Activez ou non la relance automatique avec `VRAM-Option.bat`
+3. Utilisez `Reset-VRAM.bat` pour libérer la VRAM sans tout fermer à la main
+
+📦 Important :
+- Vous devez déjà avoir une installation propre de `stable-diffusion-webui-directml`
+- Copiez-la dans ce dossier ou installez-la ici
+
+Testé sur RX 6800 XT (16 Go) – Windows 10
+
+Projet personnel développé avec l’aide de ChatGPT 😊
